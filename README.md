@@ -33,6 +33,8 @@ apt-get update
 然后复制shadowsocksr的安装命令，和上方的运行方式一样，粘贴之后回车。
 
 wget -N –-no-check-certificate https://raw.githubusercontent.com/91yun/shadowsocks_install/master/shadowsocksR.sh && bash shadowsocksR.sh
+或者
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
 
 端口默认为8989，如果你想更改，可以自行输入其他端口，直接按回车的话，默认就为8989端口。
