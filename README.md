@@ -24,16 +24,7 @@
 登陆成功后，Xshell5界面最后一行会显示root@xxxxxxxx:~# 这些。
 
 3.shadowsocksr服务端的部署
-首先使用以下命令升级系统。复制该命令到Xshell5，粘贴之后回车，（粘贴快捷键不是ctrl+c，请注意）。
-
-apt-get update
-
-等待执行完毕。
-
-然后复制shadowsocksr的安装命令，和上方的运行方式一样，粘贴之后回车。
-
-wget -N –-no-check-certificate https://raw.githubusercontent.com/91yun/shadowsocks_install/master/shadowsocksR.sh && bash shadowsocksR.sh
-
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh
 
 端口默认为8989，如果你想更改，可以自行输入其他端口，直接按回车的话，默认就为8989端口。
 
