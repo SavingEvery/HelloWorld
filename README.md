@@ -1,6 +1,6 @@
 1.vultr购买
 
-首先进行注册：https://www.vultr.com/?ref=7186642
+首先进行注册：https://www.vultr.com/?ref=7186642 或 https://www.vultr.com/?ref=8404972-6G
 
 
 然后进入paypel充值界面。
