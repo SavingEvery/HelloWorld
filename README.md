@@ -1,3 +1,12 @@
+第一种方案（比第二种方案简单便宜）：
+1.点此链接：https://www.socketpro.link/aff/92019
+2.点击：GET SOCKETPRO
+3.选择支付方式以及你的邮箱。
+4.支付
+5.使用
+
+
+第二种方案：
 1.vultr购买
 
 首先进行注册：https://www.vultr.com/?ref=7186642
